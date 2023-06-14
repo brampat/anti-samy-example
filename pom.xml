@@ -12,7 +12,7 @@
         <dependency.check.maven.plugin.version>6.0.2</dependency.check.maven.plugin.version>
         <gmavenplus.plugin.version>1.9.0</gmavenplus.plugin.version>
         <groovy.version>3.0.4</groovy.version>
-        <guava.version>29.0-jre</guava.version>
+        <guava.version>32.0.0-jre</guava.version>
         <htmlunit.version>2.41.0</htmlunit.version>
         <jacoco.maven.plugin.version>0.8.5</jacoco.maven.plugin.version>
         <java.version>11</java.version>
